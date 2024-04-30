@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on improving my coding skills through practical projects
+- 🌱 I’m currently learning PHP for Web Development and Python for Data Analysis
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: biswaroopchowdhury31@gmail.com
