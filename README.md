@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on improving my coding skills through practical projects
-- 🌱 I’m currently learning PHP for Web Development and Python for Data Analysis
+- 🔭 I’m currently working on computationally modelling the behaviour of neurons under the effect of neuro-degenrative diseases
+- 🌱 I’m currently learning trying to model a biologically accurate neuron.
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: biswaroopchowdhury31@gmail.com
+- 📫 How to reach me: biswaroopchowdhury45@gmail.com
